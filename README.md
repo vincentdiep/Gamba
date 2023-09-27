@@ -1,5 +1,6 @@
 # Gamba
-Slot machine game in Python
+Slot machine game in Python.
+
 The word "gamba" is slang that my friend group uses in place of the word gambling.
 
 **Disclaimer:** 
