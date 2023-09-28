@@ -15,17 +15,17 @@ ROWS = 3
 COLS = 3
 
 symbol_count = {
-    "A": 3,
-    "B": 6,
-    "C": 9,
-    "D": 12
+    "X": 3,
+    "O": 6,
+    "S": 9,
+    "W": 12
 }
 
 symbol_value = {
-    "A": 5,
-    "B": 3,
-    "C": 2,
-    "D": 1.5
+    "X": 5,
+    "O": 3,
+    "S": 2,
+    "W": 1.5
 }
 
 def check_winnings(columns, lines, bet, values):
